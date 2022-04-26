@@ -1,0 +1,83 @@
+/* ========== FONT ========= */
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer:ital@1&family=Syne+Tactile&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css');
+/* ===== END OF FONT ========= */
+
+body {
+  width: 1380px;
+  height: 600px !important;
+  margin: 0 !important;
+  padding: 0;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+.hero img {
+  width: 1380px;
+  height: 650px;
+}
+
+.container {
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  position: absolute;
+  margin-top: -35rem;
+  margin-left: 26rem;
+  border-radius: 20%;
+}
+
+form {
+  margin-top: -3rem;
+  color: white;
+  font-weight: bold;
+}
+
+span h1 {
+  margin-left: 13.5rem;
+  text-align: center;
+  font-weight: normal;
+  font-family: 'Syne Tactile', cursive;
+}
+
+.form-control {
+  width: 280px;
+  margin-left: 5.5rem;
+  text-align: center;
+}
+
+.form-check-input {
+  margin-top: 1rem;
+  margin-left: 5rem !important;
+  margin-right: -30rem !important;
+}
+
+.form-check-label {
+  margin-top: 0.8rem;
+  margin-left: -9.1rem;
+  font-weight: normal;
+  font-size: 15px;
+}
+
+#email {
+  width: 300px;
+  background-color: rgba(255, 255, 255, 0.014);
+  border-radius: 20px;
+  color: white;
+  margin-left: 32rem;
+}
+
+#password {
+  width: 300px;
+  background-color: rgba(255, 255, 255, 0.014);
+  border-radius: 20px;
+  color: white;
+  margin-top: -1rem;
+  margin-left: 32rem;
+}
+
+#submit {
+  border-radius: 20px;
+  width: 300px;
+  margin-left: 13rem;
+}

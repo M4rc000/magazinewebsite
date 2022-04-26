@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap');
+
+body {
+  overflow-x: hidden;
+}
+
+#login:hover {
+  color: rgb(145, 138, 138);
+}
+
+#signup:hover {
+  color: rgb(145, 138, 138);
+}
+
+h1 {
+  text-align: center;
+}
+.top {
+  font-size: 13px;
+  color: white;
+  height: 49px;
+  background-color: rgb(0, 0, 0);
+}
+.top p {
+  margin-top: 20pxrem;
+  margin-left: 15rem;
+  padding-top: 11px;
+}
+p {
+  padding-top: 5px;
+}
+.top p a {
+  color: white;
+  text-decoration: none;
+}
+.title {
+  position: relative;
+  height: 90px;
+  background-color: rgb(24, 22, 22);
+  font-family: 'Cinzel', serif;
+  margin-top: -1rem;
+  padding-top: 11px;
+  text-align: center
+}
+
+h1 {
+  display: inline;
+  color: white;
+  text-align: center;
+  margin-right: auto;
+}
+
+h2 {
+  display: inline;
+  color: white;
+  font-size: 45px;
+  text-align: center;
+  margin-left: -3rem;
+  margin-top: -5rem;
+}
+h3 {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.navbar {
+  width: 100%;
+  height: 67px;
+  background-color: rgb(230, 7, 7);
+  border-radius: 0;
+  display: block;
+}
+
+.bar {
+  text-align: center;
+}
+
+.top a {
+  color: rgb(207, 195, 195);
+}
+.navbar {
+  text-align: center;
+}
+
+div .list,
+.btn-danger,
+.home,
+.Stories,
+.about,
+.reviews,
+.videos {
+  color: white;
+  display: inline-block;
+  border-radius: 20%;
+  background-color: rgb(230, 7, 7);
+  text-decoration: none;
+  align-content: center;
+  list-style-type: none;
+  margin-left: 7rem;
+}
+.navbar a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  align-content: center;
+}
+a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.hero img {
+  margin-top: 10rem;
+  width: 100%;
+  height: 900px;
+}
+
+footer {
+  width: 100%;
+  height: 230px;
+  background-color: rgb(24, 22, 22);
+  color: white;
+}
+
+.container {
+  margin-left: 49rem;
+}
